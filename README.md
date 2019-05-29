@@ -1,2 +1,2 @@
-# device.io
+# device.github.io
 Первый хостинг
